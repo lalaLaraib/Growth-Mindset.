@@ -70,7 +70,7 @@ st.markdown("""
         body {
             background-color: #f0f8ff;  /* Add your preferred background color here */
             font-family: 'Arial', sans-serif;
-            color: #333;
+            color: aqua;
         }
 
         /* Title Styling */
