@@ -78,9 +78,6 @@
 
 
 
-
-
-
 import streamlit as st
 
 # Set page configuration
@@ -91,8 +88,8 @@ st.title("🧠 Growth Mindset Challenge: Web App With Streamlit")
 st.markdown("""
     <style>
         /* General page styling */
-        body {
-            background-color: #FFB6C1;  /* Add your preferred background color here */
+        html body {
+            background-color: #FFB6C1;  /* Light Pink background color */
             font-family: 'Arial', sans-serif;
             color: #333;
         }
@@ -220,4 +217,3 @@ if result:
 # Footer
 st.markdown('<div class="footer">🚀 Keep believing in yourself. Growth is a journey, not a destination! 🌟</div>', unsafe_allow_html=True)
 st.markdown("**⛔ Created by Efza Laraib**", unsafe_allow_html=True)
-
