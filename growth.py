@@ -92,7 +92,7 @@ st.markdown("""
     <style>
         /* General page styling */
         body {
-            background-color: #f0f8ff;  /* Add your preferred background color here */
+            background-color: #FFB6C1;  /* Add your preferred background color here */
             font-family: 'Arial', sans-serif;
             color: #333;
         }
