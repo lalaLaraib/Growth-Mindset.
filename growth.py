@@ -57,42 +57,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 import streamlit as st
 
 # Set page configuration
@@ -104,7 +68,7 @@ st.markdown("""
     <style>
         /* General page styling */
         body {
-            background-color: #f0f8ff;
+            background-color: #f0f8ff;  /* Add your preferred background color here */
             font-family: 'Arial', sans-serif;
             color: #333;
         }
@@ -232,4 +196,3 @@ if result:
 # Footer
 st.markdown('<div class="footer">🚀 Keep believing in yourself. Growth is a journey, not a destination! 🌟</div>', unsafe_allow_html=True)
 st.markdown("**⛔ Created by Efza Laraib**", unsafe_allow_html=True)
-
